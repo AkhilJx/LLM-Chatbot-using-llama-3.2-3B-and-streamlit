@@ -7,6 +7,7 @@ Sample Output 1:
 ![image](https://github.com/user-attachments/assets/b80b9c5b-6b72-46f6-892a-91e423dc8773)
 
 Sample Output 2:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1d1b8110-ba1e-4f68-ade3-62a8aa76fc0b)
+
 
 
